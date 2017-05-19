@@ -13,5 +13,6 @@ if ($n1 > $n2) {
 else
 {
     echo 'El numero mayor es: '.$n2;
+    
 }
 
